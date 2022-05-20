@@ -46,13 +46,13 @@ allows users to hire a personal chef to come and cook for them at home instantly
 ## 👉🏻 User Journey
 
 
-> First: The user enters and sees a welcome message and some instructions and ways to help.
+``` First: The user enters and sees a welcome message and some instructions and ways to help. ```
 
-> After that, the user goes to watch the landing page which it's contain information about the platform and i can browse all the services that we delivered.
+``` After that, the user goes to watch the landing page which it's contain information about the platform and he can browse all the services that we delivered. ```
 
-> Then when oreder a service , then if he a user he can choose a menu and submit all the booking details the chief need to get the order done then  place an order for him, and enter all the required information.
+``` Then when oreder a service , then if he a user he can choose a menu and submit all the booking details the chief need to get the order done then  place an order for him, and enter all the required information. ```
 
-> Upon receiving the order, the chef will send a confirmation message to the user
+``` Upon receiving the order, the chef will send a confirmation message to the user ``` 
 
-> After confirmation, of the successful completion of the task, both the user and the chef will be able to rate each other.
+``` After confirmation, of the successful completion of the task, both the user and the chef will be able to rate each other.```
 
