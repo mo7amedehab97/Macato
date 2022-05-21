@@ -40,6 +40,22 @@ allows users to hire a personal chef to come and cook for them at home instantly
 ![macnto platform  (2)](https://user-images.githubusercontent.com/61945138/169637022-fd5f15ae-54a3-461f-bfef-91121cd8ab24.png)
 
 
+<br>
 
+## User Journey 
+### User who wants to hire a chef
+- The user will see the platform landing page which it's contain all information about the services and instruction about how he can user the platform and, all services that the platform present after see the welcome page he wants to order a servivce so he should sign up or loged in if he already have an account after signup or login the user will see  menu of cuisines and discounts and offers for each if exists.
+- By clicking on the cuisine the user will move to its page for more information and to book it if he wants.
+- The user submits his booking details. 
+- User can choose the payment method he prefers either in-person or online.
+- After getting the service done, the user can make feedback.
+
+
+
+### Chef who want to get hierd
+- The user will see the platform landing page which it's contain all information about the services and instruction about how he can user the platform and, all services that the platform present after see the welcome page he wants to order a servivce so he should sign up or loged in if he already have an account after signup or login the user will see a page to set up his profile and after he created his profile he can puplish and add menus of food he's specialized in making and he get notification if there's any hiring orders get to him 
+- The user can see a list of the current orders and reply to them with the needed details.
+- The user can make updates on the menu and offers continuously.
+- The user can make feedback after finishing dealing with the customer.
 
 
