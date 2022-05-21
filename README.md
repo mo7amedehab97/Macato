@@ -38,7 +38,7 @@ allows users to hire a personal chef to come and cook for them at home instantly
 
 ### flow chart
 ![macnto platform  (2)](https://user-images.githubusercontent.com/61945138/169637022-fd5f15ae-54a3-461f-bfef-91121cd8ab24.png)
-[flow chart link](https://lucid.app/lucidchart/f9e2259b-ab25-4fe5-aca0-72bf187c0c33/edit?page=0_0#)
+[flow chart link](https://lucid.app/lucidchart/f9e2259b-ab25-4fe5-aca0-72bf187c0c33/edit?viewport_loc=-3632%2C-38%2C2793%2C1228%2C0_0&invitationId=inv_8db7a91e-9b53-4c32-b8f0-14b04aa1178b)
 
 
 <br>
