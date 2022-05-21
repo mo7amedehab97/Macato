@@ -37,8 +37,8 @@ allows users to hire a personal chef to come and cook for them at home instantly
 
 
 ### flow chart
+![macnto platform  (2)](https://user-images.githubusercontent.com/61945138/169637022-fd5f15ae-54a3-461f-bfef-91121cd8ab24.png)
 
-![macnto platform ](https://user-images.githubusercontent.com/61945138/169596222-f4b96d17-3150-4169-a956-40e2929a83bc.png)
 
 
 
