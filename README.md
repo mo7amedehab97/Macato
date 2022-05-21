@@ -21,7 +21,7 @@ allows users to hire a personal chef to come and cook for them at home instantly
 - _As a ` User `_  I can  pay in person or online.
 - _As a ` User `_  I can  get special offers and discounts.
 - _As a ` User `_  I can submit feedback.
-## Chief
+## Chef
 - _As a ` Chef `_  I must signup or login.
 - _As a ` Chef `_  I can add menus of food i'm specialized in making.
 - _As a ` Chef `_  I can see all the hiring orders and have the ability to accept the order or rejeected it .
